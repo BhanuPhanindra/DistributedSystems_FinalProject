@@ -1,0 +1,14 @@
+##This is comment
+g++ noncausal.cpp -o noncausal -std=c++11 -pthread
+
+
+
+xterm -hold -e './noncausal 2040 3 1' & xterm -hold -e './noncausal 2040 3 2' & xterm -hold -e './noncausal 2040 3 3'
+
+
+
+
+
+
+
+exit 0

@@ -1,0 +1,14 @@
+##This is comment
+g++ berk.cpp -o berk.out -std=c++11 -pthread
+
+g++ node2.cpp -o node2 -std=c++11 -pthread
+
+xterm -hold -e './berk.out 1060 2' &
+ xterm -hold -e './node2 127.0.0.1 1060'&
+ xterm -hold -e './node2 127.0.0.1 1060'&
+
+
+
+
+
+exit 0

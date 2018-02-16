@@ -1,0 +1,14 @@
+##This is comment
+g++ bank.cpp -o bank.out -std=c++11 -pthread
+
+
+
+xterm -hold -e './bank.out 2040 3 1' & xterm -hold -e './bank.out 2040 3 2' & xterm -hold -e './bank.out 2040 3 3'
+
+
+
+
+
+
+
+exit 0

@@ -1,0 +1,5 @@
+all:
+	g++ causal.cpp -o causal.out -std=c++11 -pthread
+
+clean:
+	rm- causal.out

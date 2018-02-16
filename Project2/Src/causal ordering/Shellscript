@@ -1,0 +1,14 @@
+##This is comment
+g++ causal.cpp -o causal.out -std=c++11 -pthread
+
+
+
+xterm -hold -e './causal.out 2050 3 1' & xterm -hold -e './causal.out 2050 3 2' & xterm -hold -e './causal.out 2050 3 3'
+
+
+
+
+
+
+
+exit 0
