@@ -1,0 +1,203 @@
+1 101 w 200
+Transaction done Successfully.
+2 101 d 300
+Transaction done Successfully.
+3 105 d 150
+no such account with given account number
+4 102 w 200
+Transaction done Successfully.
+5 102 d 300
+Transaction done Successfully.
+6 105 d 150
+no such account with given account number
+7 101 w 200
+Transaction done Successfully.
+8 101 d 300
+Transaction done Successfully.
+9 105 d 150
+no such account with given account number
+10 102 w 200
+Transaction done Successfully.
+11 102 d 300
+Transaction done Successfully.
+12 105 d 150
+no such account with given account number
+13 105 d 150
+no such account with given account number
+14 102 w 200
+Transaction done Successfully.
+15 102 d 300
+Transaction done Successfully.
+16 105 d 150
+no such account with given account number
+17 101 w 200
+Transaction done Successfully.
+18 101 d 300
+Transaction done Successfully.
+19 105 d 150
+no such account with given account number
+20 102 w 200
+Transaction done Successfully.
+21 101 w 200
+Transaction done Successfully.
+22 101 d 300
+Transaction done Successfully.
+23 105 d 150
+no such account with given account number
+24 102 w 200
+Transaction done Successfully.
+25 102 d 300
+Transaction done Successfully.
+26 105 d 150
+no such account with given account number
+27 101 w 200
+Transaction done Successfully.
+28 101 d 300
+Transaction done Successfully.
+29 105 d 150
+no such account with given account number
+30 102 w 200
+Transaction done Successfully.
+31 101 w 200
+Transaction done Successfully.
+32 101 d 300
+Transaction done Successfully.
+33 105 d 150
+no such account with given account number
+34 102 w 200
+Transaction done Successfully.
+35 102 d 300
+Transaction done Successfully.
+36 105 d 150
+no such account with given account number
+37 101 w 200
+Transaction done Successfully.
+38 101 d 300
+Transaction done Successfully.
+39 105 d 150
+no such account with given account number
+40 102 w 200
+Transaction done Successfully.
+41 101 w 200
+Transaction done Successfully.
+42 101 d 300
+Transaction done Successfully.
+43 105 d 150
+no such account with given account number
+44 102 w 200
+Transaction done Successfully.
+45 102 d 300
+Transaction done Successfully.
+46 105 d 150
+no such account with given account number
+47 101 w 200
+Transaction done Successfully.
+48 101 d 300
+Transaction done Successfully.
+49 105 d 150
+no such account with given account number
+50 102 w 100
+Transaction done Successfully.
+51 101 w 200
+Transaction done Successfully.
+52 101 d 300
+Transaction done Successfully.
+53 105 d 150
+no such account with given account number
+54 102 w 200
+Transaction done Successfully.
+55 102 d 300
+Transaction done Successfully.
+56 105 d 150
+no such account with given account number
+57 101 w 200
+Transaction done Successfully.
+58 101 d 300
+Transaction done Successfully.
+59 105 d 150
+no such account with given account number
+60 102 w 200
+Transaction done Successfully.
+61 102 d 300
+Transaction done Successfully.
+62 105 d 150
+no such account with given account number
+63 105 d 150
+no such account with given account number
+64 102 w 200
+Transaction done Successfully.
+65 102 d 300
+Transaction done Successfully.
+66 105 d 150
+no such account with given account number
+67 101 w 200
+Transaction done Successfully.
+68 101 d 300
+Transaction done Successfully.
+69 105 d 150
+no such account with given account number
+70 102 w 200
+Transaction done Successfully.
+71 101 w 200
+Transaction done Successfully.
+72 101 d 300
+Transaction done Successfully.
+73 105 d 150
+no such account with given account number
+74 102 w 200
+Transaction done Successfully.
+75 102 d 300
+Transaction done Successfully.
+76 105 d 150
+no such account with given account number
+77 101 w 200
+Transaction done Successfully.
+78 101 d 300
+Transaction done Successfully.
+79 105 d 150
+no such account with given account number
+80 102 w 200
+Transaction done Successfully.
+81 101 w 200
+Transaction done Successfully.
+82 101 d 300
+Transaction done Successfully.
+83 105 d 150
+no such account with given account number
+84 102 w 200
+Transaction done Successfully.
+85 102 d 300
+Transaction done Successfully.
+86 105 d 150
+no such account with given account number
+87 101 w 200
+Transaction done Successfully.
+88 101 d 300
+Transaction done Successfully.
+89 105 d 150
+no such account with given account number
+90 102 w 200
+Transaction done Successfully.
+91 101 w 200
+Transaction done Successfully.
+92 101 d 300
+Transaction done Successfully.
+93 105 d 150
+no such account with given account number
+94 102 w 200
+Transaction done Successfully.
+95 102 d 300
+Transaction done Successfully.
+96 105 d 150
+no such account with given account number
+97 101 w 200
+Transaction done Successfully.
+98 101 d 300
+Transaction done Successfully.
+99 105 d 150
+no such account with given account number
+100 102 w 100
+Transaction done Successfully.
+Total time is:21636
+Average time is :216.36
+
